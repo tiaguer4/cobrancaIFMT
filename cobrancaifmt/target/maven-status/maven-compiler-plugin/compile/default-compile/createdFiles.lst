@@ -1,0 +1,6 @@
+edu\ifmt\cobrancaifmt\model\Titulo.class
+edu\ifmt\cobrancaifmt\repository\Titulos.class
+edu\ifmt\cobrancaifmt\CobrancaifmtApplication.class
+edu\ifmt\cobrancaifmt\controller\TituloController.class
+edu\ifmt\cobrancaifmt\model\StatusTitulo.class
+edu\ifmt\cobrancaifmt\ServletInitializer.class
